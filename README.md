@@ -11,7 +11,7 @@ the field because reasons.
 The configuration changes are taken from the following ebooks and other Git
 repositories:
 
-* https://benchmarks.cisecurity.org/community/editors/groups/single/?group=debian
+* http://popularubuntuquestions.com/
 * https://benchmarks.cisecurity.org/downloads/show-single/?file=apache.310
 * https://benchmarks.cisecurity.org/downloads/show-single/?file=apache24.100
 * https://github.com/ioerror/duraconf/
